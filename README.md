@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mehmet Deha Balkis :)
-- 👀 I’m interested in Bluetooth Tech
+- 👀 I’m interested in Bluetooth, LoRa and NB-IoT
 - 🌱 I’m currently learning Mesh Protocoll
 - 📫 How to reach me dehabalkis@gmail.com
 
