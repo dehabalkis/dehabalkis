@@ -1,15 +1,10 @@
-- 👋 Hi, I’m Mehmet Deha Balkis :)
-- 👀 I’m interested in Bluetooth, LoRa and NB-IoT
-- 🌱 I’m currently learning Mesh Protocoll
-- 📫 How to reach me dehabalkis@gmail.com
-
-Hi there 👋
-
-This is Mehmet Deha Balkis :)
+Hi, 👋 I’m Mehmet Deha Balkis :)
 
 Who are you?
 
     Just a programmer, I use C, C# and Python. I am currently working as an Embedded Software Developer.
+
+    - 🌱 I’m currently learning Mesh Protocoll - 👀 I’m interested in Bluetooth, LoRa and NB-IoT
 
 You can find me on...
 
@@ -21,10 +16,9 @@ Where do you work? or have been before?
 
 Some information about me:
 
-    Test
+    Test - 📫 How to reach me dehabalkis@gmail.com
 
 Certificated
-
 
 
 <!---
