@@ -6,17 +6,26 @@ Who are you?
 
     - 🌱 I’m currently learning Mesh Protocoll - 👀 I’m interested in Bluetooth, LoRa and NB-IoT
 
-You can find me on...
+You can find me on linkedin
 
-    Test
+    www.linkedin.com/in/dehabalkis
 
 Where do you work? or have been before?
 
-    Test
+    embeX GmbH
+    ISPE
+    Newtec GmbH
 
 Some information about me:
 
-    Test - 📫 How to reach me dehabalkis@gmail.com
+    I was employed at ISPE while I studied my BSc, where I designed and investigated the use of IoT devices with LoRa protocols in different systems. 
+
+    During my studies I completed several internships. At embeX I was active in the development of Python scripts for automated processing. As a result 
+    of my involvement in development and manufacturing processes, I was able to acquire very good analytical skills and the ability to apply them in context. 
+
+    In April 2020, I started working as a technical employee at the company Sick AG in Reute in the field of Quality Management.
+
+    I have been working as a software engineer in embedded systems at Newtec since June 2021.
 
 Certificated
 
