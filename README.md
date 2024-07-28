@@ -27,10 +27,16 @@ Some information about me:
 
     I have been working as a software engineer in embedded systems at Newtec since June 2021.
 
-Certificated
+Certificated:    
 
+    ISTQB Certified Tester Foundation Level Training
+    Software implementation training for embedded systems
+    Bluetooth Low Energy Training
+    SVN Training
+    Jira Training
+    UML Training for Embedded Systems
+    Python Bootcamp and Instruction for the programming language C++
 
-<!---
 dehabalkis/dehabalkis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
